@@ -62,6 +62,9 @@ body {
     margin-bottom: 20px;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.10);
 }
+.new-matter-btn:hover {
+    background: #F1F3F4;
+}
 
 .nav-item {
     display: flex;
@@ -373,6 +376,9 @@ body {
     cursor: pointer;
     font-weight: 500;
 }
+.start-btn:hover {
+    background: #3C4043;
+}
 
 .tool-item {
     border: 1px solid var(--border-color);
@@ -463,6 +469,9 @@ body {
     cursor: pointer; 
     font-size: 14px;
 }
+.compare-btn:hover {
+    background: #3C4043;
+} 
 
 .sub-item_icon{
     min-width: 16px;
