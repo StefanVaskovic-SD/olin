@@ -252,10 +252,10 @@ body {
 .tab {
     background: none;
     border: none;
-    padding: 12px 4px;
+    padding: 12px 0px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 6px;
     font-size: 14px;
     cursor: pointer;
     border-bottom: 2px solid transparent;
