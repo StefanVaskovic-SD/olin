@@ -419,7 +419,7 @@ body {
     align-items: center; 
     gap: 10px; 
     font-size: 14px; 
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .lender-item img { width: 28px; height: 28px; border-radius: 4px; }
