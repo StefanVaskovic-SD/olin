@@ -229,7 +229,6 @@ body {
     align-items: center;
     gap: 8px;
     color: var(--text-main);
-    margin-left: 10px;
 }
 
 .avatar-img { width: 24px; height: 24px; border-radius: 50%; }
