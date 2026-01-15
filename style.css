@@ -111,6 +111,7 @@ body {
     gap: 6px;
     padding-top: 16px;
     font-size: 14px;
+    font-weight: 500;
 }
 
 .avatar-small {
