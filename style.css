@@ -143,6 +143,7 @@ body {
     display: flex;
     align-items: center;
     gap: 4px;
+    font-weight: 500;
 }
 .breadcrumb span{
     font-size: 16px;
@@ -201,6 +202,7 @@ body {
     align-items: center;
     gap: 12px;
     font-size: 14px;
+    font-weight: 500;
 }
 .company-logo_img{
     width: 24px;
@@ -303,6 +305,7 @@ body {
     justify-content: center;
     padding: 0 24px;
     height: 50%; /* Skraćeni divideri */
+    gap: 4px
 }
 
 .pre-icon-box {
@@ -315,7 +318,7 @@ body {
 .divider-left { border-left: 1px solid var(--border-color); }
 
 .pre-section label {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--text-secondary);
     margin-bottom: 4px;
 }
