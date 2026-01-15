@@ -265,6 +265,10 @@ body {
 }
 .tab span{
     font-size: 16px;
+    opacity: 0.8;
+}
+.tab.active span{
+    opacity: 1;
 }
 
 .tab.active {
